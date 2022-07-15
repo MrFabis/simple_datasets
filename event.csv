@@ -1,4 +1,4 @@
-BEGIN:VCALENDAR,,,,,,
+BEGIN:VCALENDAR,1,2,3,4,5,6
 BEGIN:VEVENT,,,,,,
 DTSTART;TZID=America/Mexico_City:20220711T,,,,,,
 DTEND;TZID=America/Mexico_City:20220711T,,,,,,
